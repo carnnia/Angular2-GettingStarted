@@ -5,3 +5,10 @@ li {
 div.panel-heading {
    font-size: x-large; 
 }
+body{
+    font-family: "Gotham Rounded A", "Gotham Rounded B", "Helvetica Neue", Helvetica, Arial, sans-serif, "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
+h1{
+    color: #d0782a;
+    font-weight: bold;
+}
